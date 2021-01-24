@@ -3,7 +3,7 @@
 
 # Introduction:
 
-   **In this project, we are going to use a pre-trained model which is called Keras-retinanet. Then We will take another pre-train model which is already trained using the weight of Keras-retinanet. we will also show how to train our own model using Keras-retinanet weight. Our main objective is to detect a number plate and create a bounding box along with the prediction score of a car using a custom dataset which is hosted in Kaggle. The custom dataset name is Indian number plates which is in JSON file. let's start and discuss the whole project step by step.**
+   **In this project, we are going to use a pre-trained model which is called Keras-retinanet. Then We will take another pre-train model which is already trained using the weight of Keras-retinanet. we will also show how to train our own model using Keras-retinanet weight. Our main objective is to detect a number plate and create a bounding box along with the prediction score of a car using a custom dataset which is hosted in Kaggle. The custom dataset name is Indian number plates which is in JSON file.**
    
    
    # Future work:
